@@ -2,8 +2,8 @@ var texts =
     {
         "headline":
             {
-                "english": "Test de catalogue Zotero",
-                "german": "Test de catalogue Zotero"
+                "english": "Catalogue Zotero",
+                "german": "Catalogue Zotero"
             }
         ,
         "stiftFlorianTip":
