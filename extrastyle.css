@@ -63,7 +63,7 @@
 }
 
 .headerdiv {
-  background-color: rgba(68, 81, 90, 0.3);
+  background-color: #4682B4;
   padding: 0;
   /* background: linear-gradient(to bottom, rgb(68,81,90), rgba(68,81,90, 0)); */
 }
@@ -136,7 +136,7 @@ h2 {
 
 .table-striped > tbody > tr:nth-child(2n + 1) > td,
 .table-striped > tbody > tr:nth-child(2n + 1) > th {
-  background-color: rgba(68, 81, 90, 0.2);
+  background-color: #D8BFD8;
 }
 
 .footer {

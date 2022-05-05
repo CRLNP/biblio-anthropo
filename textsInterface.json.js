@@ -14,14 +14,14 @@ var texts =
         ,
         "digitalOrientalistTip":
             {
-                "english": "Made by L.W.C. van Lit",
-                "german": "hergestellt von Dr. L.W.C. van Lit"
+                "english": "Caroline Patenaude",
+                "german": "Caroline Patenaude"
             }
         ,
         "flagTip":
             {
-                "english": "Switch to English",
-                "german": "Auf deutsch umstellen"
+                "english": "Anglais",
+                "german": "Francais"
             }
         ,
         "welcomeHeader":
@@ -74,8 +74,8 @@ var texts =
         ,
         "sortYearCaption":
             {
-                "english": "Ann�e",
-                "german": "Ann�e"
+                "english": "Année",
+                "german": "Année"
             }
         ,
         "beginTitleCatalog":
@@ -87,19 +87,19 @@ var texts =
         "noResultsTitleCatalog":
             {
                 "english": "No results, showing all entries instead:",
-                "german": "Keine Ergebnisse, stattdessen werden alle Einträge angezeigt:"
+                "german": "Pas de résultats, présentation de toutes les entrées:"
             }
         ,
         "againTitleCatalog":
             {
                 "english": "Showing all entries again:",
-                "german": "Alle Einträge erneut angezeigt:"
+                "german": "Présentation de toutes les entrées:"
             }
         ,
         "foundItemsCatalog":
             {
-                "english": "Nombre de r�sultats:",
-                "german": " Nombre de r�sultats:"
+                "english": "Nombre de résultats:",
+                "german": " Nombre de résultats:"
             },
         "authorCatalog":
             {
@@ -109,8 +109,8 @@ var texts =
         ,
         "editorCatalog":
             {
-                "english": "�diteur: ",
-                "german": "�diteur: "
+                "english": "Éditeur: ",
+                "german": "Éditeur: "
             },
         "translatorCatalog":
             {
@@ -130,7 +130,7 @@ var texts =
         "publisherCatalog":
             {
                 "english": "Publisher: ",
-                "german": "Verlag: "
+                "german": "Éditeur: "
             },
         "placeCatalog":
             {
@@ -139,13 +139,13 @@ var texts =
             },
         "yearCatalog":
             {
-                "english": "Annee: ",
-                "german": "Annee: "
+                "english": "Année: ",
+                "german": "Année: "
             },
         "additionalCatalog":
             {
-                "english": "R�sum�: ",
-                "german": "R�sum�: "
+                "english": "Résumé: ",
+                "german": "Résumé: "
             },
         "callNumberCatalog":
             {
