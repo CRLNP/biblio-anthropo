@@ -8,8 +8,8 @@ var texts =
         ,
         "stiftFlorianTip":
             {
-                "english": "Go to Stift Florian's Website",
-                "german": "Gehe zur Website von Stift Florian"
+                "english": "Bibliothèque des lettres et sciences humaines",
+                "german": "Bibliothèque des lettres et sciences humaines"
             }
         ,
         "digitalOrientalistTip":
