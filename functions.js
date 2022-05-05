@@ -134,7 +134,7 @@ function Switch_Language(language) {
     document.getElementById("flagTip").innerHTML =
       '<img src="iconflag' +
       nextLanguage +
-      '.svg" height="16" width="32" class="flags" id="flagTip" )">';
+      '.png" height="16" width="32" class="flags" id="flagTip" )">';
     document.getElementById("flagTip").title = Object.values(texts.flagTip)[
       nextLanIndex
     ];
