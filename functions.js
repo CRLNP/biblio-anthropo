@@ -314,7 +314,7 @@ function Popup_More_Info(number, language) {
   }
   if (searchData[number].hasOwnProperty("abstract")) {
     htmlPopupInfo +=
-      '<hr><p class="text-success"><b>' +
+      '<hr><p class="text-info"><b>' +
       additionalLan +
       "</b><br>" +
       searchData[number].abstract +

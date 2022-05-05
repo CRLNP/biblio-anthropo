@@ -71,8 +71,8 @@
 .header {
   background-image: linear-gradient(
     to top,
-    rgb(159, 68, 62),
-    rgb(253, 192, 47)
+    #000000,
+    #f0f0f5
   );
   color: transparent;
   -webkit-background-clip: text;
@@ -81,8 +81,8 @@
 .headline {
   background-image: linear-gradient(
     to bottom right,
-    rgb(167, 72, 61),
-    rgb(253, 192, 47)
+    #000000,
+    #5c5c8a
   );
   color: transparent;
   -webkit-background-clip: text;
@@ -136,7 +136,7 @@ h2 {
 
 .table-striped > tbody > tr:nth-child(2n + 1) > td,
 .table-striped > tbody > tr:nth-child(2n + 1) > th {
-  background-color: #D8BFD8;
+  background-color: #c2c2d6;
 }
 
 .footer {

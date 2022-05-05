@@ -2,7 +2,7 @@ var texts =
     {
         "headline":
             {
-                "english": "Catalogue Zotero",
+                "english": "Zotero Catalog",
                 "german": "Catalogue Zotero"
             }
         ,
@@ -26,61 +26,61 @@ var texts =
         ,
         "welcomeHeader":
             {
-                "english": "Bonjour",
+                "english": "Hello",
                 "german": "Bonjour"
             }
         ,
         "welcomeBody":
             {
-                "english": "Allo!",
-                "german": "Allo!"
+                "english": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut erat vulputate, pellentesque risus efficitur, fermentum purus. Suspendisse sit amet ullamcorper purus, a posuere ante. Nunc fringilla ipsum in tincidunt consectetur. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+                "german": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut erat vulputate, pellentesque risus efficitur, fermentum purus. Suspendisse sit amet ullamcorper purus, a posuere ante. Nunc fringilla ipsum in tincidunt consectetur. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
             }
         ,
         "searchButton":
             {
-                "english": "Chercher",
+                "english": "Search",
                 "german": "Chercher"
             }
         ,
         "searchBox":
             {
-                "english": "Rechercher...",
+                "english": "Search...",
                 "german": "Rechercher..."
             }
         ,
         "searchTip":
             {
-                "english": "Inscrire un terme et cliquer Chercher",
+                "english": "Insert a term and clic Search",
                 "german": "Inscrire un terme et cliquer Chercher"
             }
         ,
         "sortBy":
             {
-                "english": "Trier par: ",
+                "english": "Sort by: ",
                 "german": "Trier par: "
             }
         ,
         "sortTitleCaption":
             {
-                "english": "Titre",
+                "english": "Title",
                 "german": "Titre"
             }
         ,
         "sortAuthorCaption":
             {
-                "english": "Auteur",
+                "english": "Author",
                 "german": "Auteur"
             }
         ,
         "sortYearCaption":
             {
-                "english": "Année",
+                "english": "Year",
                 "german": "Année"
             }
         ,
         "beginTitleCatalog":
             {
-                "english": "Catalogue",
+                "english": "Catalog",
                 "german": "Catalogue"
             }
         ,
@@ -98,34 +98,34 @@ var texts =
         ,
         "foundItemsCatalog":
             {
-                "english": "Nombre de résultats:",
+                "english": "Number of results:",
                 "german": " Nombre de résultats:"
             },
         "authorCatalog":
             {
-                "english": "Auteur: ",
+                "english": "AuAuthor: ",
                 "german": "Auteur: "
             }
         ,
         "editorCatalog":
             {
-                "english": "Éditeur: ",
+                "english": "Editor: ",
                 "german": "Éditeur: "
             },
         "translatorCatalog":
             {
-                "english": "Traducteur: ",
+                "english": "Translator: ",
                 "german": "Traducteur: "
             },
         "noAuthorCatalog":
             {
                 "english": "No author details. ",
-                "german": "Keine Autorendetails. "
+                "german": "Aucun détail d'auteur. "
             },
         "numberVolumesCatalog":
             {
                 "english": "Number of volumes: ",
-                "german": "Anzahl Banden: "
+                "german": "Nombre de volumes: "
             },
         "publisherCatalog":
             {
@@ -134,32 +134,32 @@ var texts =
             },
         "placeCatalog":
             {
-                "english": "Lieu: ",
+                "english": "Place: ",
                 "german": "Lieu: "
             },
         "yearCatalog":
             {
-                "english": "Année: ",
+                "english": "Year: ",
                 "german": "Année: "
             },
         "additionalCatalog":
             {
-                "english": "Résumé: ",
+                "english": "Abstract: ",
                 "german": "Résumé: "
             },
         "callNumberCatalog":
             {
-                "english": "Cote: ",
+                "english": "Callnumber: ",
                 "german": "Cote: "
             },
         "urlCatalog":
             {
-                "english": "pdf",
-                "german": "pdf"
+                "english": "Link to pdf",
+                "german": "Lien vers le pdf"
             },
         "closeCatalog":
             {
-                "english": "Fermer",
+                "english": "Close",
                 "german": "Fermer"
             }
     }
